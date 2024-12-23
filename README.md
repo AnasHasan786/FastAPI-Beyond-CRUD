@@ -3,7 +3,7 @@
 FastAPI is a modern framework for building web APIs in Python. It is a tool to create these APIs easily and quickly. It's like a special kitchen where you can prepare the dishes (APIs) faster, with fewer mistakes, and serve them to customers (applications). It's named FastAPI because it's very fast at handling requests, thanks to a technology called ASGI (Asynchronous Server Gateway Interface).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/398d5b4f-0efd-448a-8963-e005e73d3814" alt="FastAPI">
+  <img src="[https://your-public-image-link](https://datascientest.com/en/fastapi-everything-you-need-to-know-about-the-most-widely-used-python-web-framework-for-machine-learning)" alt="FastAPI">
 </p>
 
 ASGI is a standard for a Python web applications to handle both synchronous and asynchronous tasks. Think of it as a bridge between a web server (like Uvicorn) and your Python application.
