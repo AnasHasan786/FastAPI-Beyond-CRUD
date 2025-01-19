@@ -1,7 +1,7 @@
 # FastAPI Beyond CRUD 🚀
 
 <p align="justify">
-  FastAPI is a modern framework for building web APIs in Python. It is a tool to create these APIs easily and quickly. It's like a special kitchen where you can prepare the dishes (APIs) faster, with fewer         mistakes, and serve them to customers (applications). It's named **FastAPI** because it's very fast at handling requests, thanks to a technology called <strong>ASGI</strong> (Asynchronous Server Gateway Interface).
+  FastAPI is a modern framework for building web APIs in Python. It is a tool to create these APIs easily and quickly. It's like a special kitchen where you can prepare the dishes (APIs) faster, with fewer         mistakes, and serve them to customers (applications). It's named <strong>FastAPI</strong> because it's very fast at handling requests, thanks to a technology called <strong>ASGI</strong> (Asynchronous Server Gateway Interface).
 </p>
 
 <p align="center">
